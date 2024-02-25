@@ -4,7 +4,7 @@
 
 # GitTools
 
-This repository contains three small python/bash scripts used for the Git research. [Read about it here](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/)
+ This repository contains three small python/bash scripts used for the Git research. [Read about it here](https://en.internetwache.org/dont-publicly-expose-git-or-how-we-downloaded-your-websites-sourcecode-an-analysis-of-alexas-1m-28-07-2015/)
 
 ## Finder
 
